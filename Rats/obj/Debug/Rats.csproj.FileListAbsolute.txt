@@ -1,0 +1,15 @@
+C:\Visual Studio Working Environment\Rats\Rats\bin\Debug\Rats.exe.config
+C:\Visual Studio Working Environment\Rats\Rats\bin\Debug\Rats.exe
+C:\Visual Studio Working Environment\Rats\Rats\bin\Debug\Rats.pdb
+C:\Visual Studio Working Environment\Rats\Rats\obj\Debug\Rats.csproj.AssemblyReference.cache
+C:\Visual Studio Working Environment\Rats\Rats\obj\Debug\Rats.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Working Environment\Rats\Rats\obj\Debug\Rats.csproj.CoreCompileInputs.cache
+C:\Visual Studio Working Environment\Rats\Rats\obj\Debug\Rats.exe
+C:\Visual Studio Working Environment\Rats\Rats\obj\Debug\Rats.pdb
+C:\Visual Studio Working Environment\Rats with Unit Tests\Rats\bin\Debug\Rats.exe.config
+C:\Visual Studio Working Environment\Rats with Unit Tests\Rats\bin\Debug\Rats.exe
+C:\Visual Studio Working Environment\Rats with Unit Tests\Rats\bin\Debug\Rats.pdb
+C:\Visual Studio Working Environment\Rats with Unit Tests\Rats\obj\Debug\Rats.csproj.AssemblyReference.cache
+C:\Visual Studio Working Environment\Rats with Unit Tests\Rats\obj\Debug\Rats.csproj.CoreCompileInputs.cache
+C:\Visual Studio Working Environment\Rats with Unit Tests\Rats\obj\Debug\Rats.exe
+C:\Visual Studio Working Environment\Rats with Unit Tests\Rats\obj\Debug\Rats.pdb
